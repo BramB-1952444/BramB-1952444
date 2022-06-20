@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+I am a computer science student at UHasselt
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BramB1952444&show_icons=true&theme=sweetterminal&count_private=true" alt="BramB-1592444" />
 <!--
 **BramB-1952444/BramB-1952444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
